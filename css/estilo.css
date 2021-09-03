@@ -1,0 +1,48 @@
+.cuadro{
+	background-color: #F1F1F1;
+	margin-top: 10px;
+}
+body{
+	background-color: #DFFACD;
+}
+.centrado{
+	margin-left:  auto;
+	margin-right: auto;
+
+}
+.margen{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.cuadro{
+	background-color:  #3D99AE;
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: "fuente1";
+}
+.tam{
+	font-size: 50px;
+}
+
+.fondo1{
+	background-color: rgba(64, 139, 9, 0.5) ;
+}
+.fondo2{
+	background-color: rgba(166, 192, 52, 0.5);
+}
+.fondo3{
+	background-color: rgba(92, 188,224, 0.8);
+}
+.fondo3{
+	background-color: rgba(92, 188,224, 0.8);
+}
+.fondo4{
+	background-color: rgba(133, 187,19, 0.2);
+}
+.fondo5{
+	background-color: rgba(119, 86,177, 0.2);
+}
+.fondo6{
+	background-color: rgba(115, 13,245, 0.6);
+}
